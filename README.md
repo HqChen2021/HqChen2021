@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HqChen2021
-- 👀 I’m interested in lots of CS-related things
-- 🌱 I’m currently learning CS61B
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
